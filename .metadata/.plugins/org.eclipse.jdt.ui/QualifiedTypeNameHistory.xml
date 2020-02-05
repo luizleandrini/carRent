@@ -1,2 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.sound.sampled.LineListener"/>
+<fullyQualifiedTypeName name="java.util.stream.Collector"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="chess.ChessPosition"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.nio.channels.IllegalSelectorException"/>
+<fullyQualifiedTypeName name="chess.ChessException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="boardgame.Piece"/>
+<fullyQualifiedTypeName name="application.UI"/>
+<fullyQualifiedTypeName name="chess.pieces.King"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="boardgame.Position"/>
+<fullyQualifiedTypeName name="chess.pieces.Pawn"/>
+<fullyQualifiedTypeName name="chess.Color"/>
+<fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+<fullyQualifiedTypeName name="java.security.InvalidParameterException"/>
+<fullyQualifiedTypeName name="chess.pieces.Bishop"/>
+<fullyQualifiedTypeName name="chess.pieces.Knight"/>
+<fullyQualifiedTypeName name="chess.pieces.Queen"/>
+<fullyQualifiedTypeName name="chess.pieces.Rook"/>
+<fullyQualifiedTypeName name="chess.ChessPiece"/>
+<fullyQualifiedTypeName name="chess.ChessMatch"/>
+<fullyQualifiedTypeName name="model.entities.Invoice"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="model.entities.carRental"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="model.entities.CarRental"/>
+<fullyQualifiedTypeName name="model.entities.Vehicle"/>
+<fullyQualifiedTypeName name="model.services.RentalService"/>
+<fullyQualifiedTypeName name="model.services.BrazilTaxService"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+</qualifiedTypeNameHistroy>
